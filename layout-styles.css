@@ -24,7 +24,6 @@ h5,.h5{font-size:20px;line-height:24px}
 h6,.h6{font-size:18px;line-height:24px}
 
 a{color:#3282e6;}
-a:hover,a:focus{color:#165db5;text-decoration:underline}
 
 .text-center{text-align:center}
 
@@ -131,16 +130,16 @@ button, input, select, textarea {
 }
 
 
-.btn-primary:hover, 
-.btn-primary:focus, 
-.btn-primary:active, 
+.btn-primary:hover,
+.btn-primary:focus,
+.btn-primary:active,
 .btn-primary.active {
     background-color: #729E3A;
     border-color: #496626;
     color: #fff;
 }
 
-.btn:hover, 
+.btn:hover,
 .btn:focus {
     text-decoration: none;
 }
