@@ -1,10 +1,4 @@
-#logotext {
-    font-size: 2.5em;
-}
 
-#logo{
-    background: url(img/CloudLogo.png) no-repeat;
-}
 body{
 	font-family:'Open Sans', 'Arial Narrow', Arial, sans-serif;
 	background: rgb(0,128,255);
@@ -57,7 +51,7 @@ h1, p{
     text-align: right;
 }
 .logoWrap{
-  width: 15%;
+  width: 10%;
 }
 .logoBar a img{
   width: 100%;
